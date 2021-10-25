@@ -80,5 +80,5 @@ Download results from bucket
 
     gsutil cp -r gs://<bucket-name>/ ./
 
-[^1] This email will also contain the console output and error messages raised by the script.
-[^2] Gmail seems to work well, but you will likely need to create an [App Password](https://myaccount.google.com/apppasswords) to bypass two-factor authentification.
+[^1]: This email will also contain the console output and error messages raised by the script.
+[^2]: Gmail seems to work well, but you will likely need to create an [App Password](https://myaccount.google.com/apppasswords) to bypass two-factor authentification.
